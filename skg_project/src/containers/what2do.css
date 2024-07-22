@@ -1,13 +1,8 @@
 .app__what2do {
     display: flex;
     flex-direction: column;
-
-    /* padding: 2rem; */
-    /* margin: 200px; */
-
-
-    background: var(--color-footer);
-
+    background-color: #f4edf2;
+    padding: 50px;
 }
 
 .app__what2do-feature {
@@ -17,9 +12,6 @@
     justify-content: space-between;
 
 }
-
-
-
 
 
 /* Customizing feature component as per needs */

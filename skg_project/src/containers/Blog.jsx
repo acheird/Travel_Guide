@@ -19,7 +19,7 @@ const Blog = () => {
           <Article
             imgUrl={article1}
             date="June 24, 2024"
-            title="Music, singing, opera and poetry!"
+            title="Festival Eptapyrgiou: Music, singing, opera and poetry!"
           />
         </div>
         <div className="app__blog-container_groupB">

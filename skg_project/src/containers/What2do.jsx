@@ -29,7 +29,7 @@ const What2do = () => {
         />
         <Feature
           title="Gastronomic Delights"
-          text="Indulge in local cuisine! Try **bougatsa pastries**, a Thessaloniki specialty, and savor street food from bustling markets."
+          text="Indulge in local cuisine! Try bougatsa pastries, a Thessaloniki specialty, and savor street food from bustling markets."
         />
         <Feature
           title="Lively Nightlife"

@@ -2,7 +2,7 @@
     flex-direction: row;
 
     background: var(--color-black);
-    padding: 4rem 0 4rem 6rem;
+    padding: 8rem 0 8rem 6rem;
 }
 
 .app__gallery-content {

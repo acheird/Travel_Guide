@@ -15,10 +15,10 @@ const Navbar = () => {
           <a href="#about">About</a>
         </li>
         <li className="p__opensans">
-          <a href="#what2do">Why Thessaloniki</a>
+          <a href="#what2do">Why Thessaloniki?</a>
         </li>
         <li className="p__opensans">
-          <a href="#what2do">What to Do</a>
+          <a href="#what2do">What to Do?</a>
         </li>
         <li className="p__opensans">
           <a href="#explore">Explore</a>
@@ -57,17 +57,17 @@ const Navbar = () => {
               </li>
               <li>
                 <a href="#home" onClick={() => setToggleMenu(false)}>
-                  Why
+                  Why Thessaloniki?
                 </a>
               </li>
               <li>
                 <a href="#where2go" onClick={() => setToggleMenu(false)}>
-                  Where to Go
+                  What to Do?
                 </a>
               </li>
               <li>
                 <a href="#what2do" onClick={() => setToggleMenu(false)}>
-                  What to Do
+                  Explore
                 </a>
               </li>
               <li>

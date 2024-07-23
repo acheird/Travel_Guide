@@ -5,11 +5,7 @@ import {
   BsArrowRightShort,
 } from "react-icons/bs";
 import "./gallery.css";
-import thess1 from "../assets/thess1.jpg";
-import thess2 from "../assets/thess2.jpg";
-import thess3 from "../assets/thess3.jpg";
-import thess4 from "../assets/thess4.jpg";
-import thess5 from "../assets/thess5.jpg";
+import { thess1, thess2, thess3, thess4, thess5 } from "../../assets";
 
 const Gallery = () => {
   const scrollRef = React.useRef(null);

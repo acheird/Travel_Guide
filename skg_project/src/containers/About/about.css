@@ -6,7 +6,6 @@
 
 }
 
-
 .app__about-content h1 {
     font-family: var(--font-family);
     font-weight: 800;
@@ -24,7 +23,6 @@
     color: var(--color-text);
     text-align: justify;
     text-justify: inter-word;
-
     margin-top: 1.5rem;
 
 }

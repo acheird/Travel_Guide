@@ -1,5 +1,5 @@
 import "./what2do.css";
-import { Feature } from "../components";
+import { Feature } from "../../components";
 
 const What2do = () => {
   return (

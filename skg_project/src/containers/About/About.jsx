@@ -1,4 +1,4 @@
-import skg from "../assets/skg.png";
+import { skg } from "../../assets";
 import "./about.css";
 
 const About = () => (

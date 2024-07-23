@@ -1,5 +1,5 @@
 import "./newsletter.css";
-import people from "../assets/people.png";
+import people from "../../assets/people.png";
 
 const NewsLetter = () => {
   return (

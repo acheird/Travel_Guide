@@ -1,10 +1,6 @@
 import "./blog.css";
-import { Article } from "../components";
-import article1 from "../assets/festival.jpg";
-import article2 from "../assets/louloudadika.png";
-import article3 from "../assets/olympus.jpg";
-import article4 from "../assets/Best-Restaurants.jpg";
-import article5 from "../assets/roman-agora.jpg";
+import { Article } from "../../components";
+import { article1, article2, article3, article4, article5 } from "../../assets";
 
 const Blog = () => {
   return (

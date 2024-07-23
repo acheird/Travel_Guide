@@ -9,8 +9,8 @@
   margin-bottom: 5rem;
 }
 
-.app__blog-heading h1 {
-  font-size: 62px;
+.app__blog-heading h2 {
+  font-size: 58px;
   line-height: 75px;
   font-family: var(--font-family);
   font-weight: 800;
@@ -68,7 +68,7 @@
 }
 
 @media screen and (max-width: 550px) {
-  .app__blog-heading h1 {
+  .app__blog-heading h2 {
     font-size: 34px;
     line-height: 42px;
   }

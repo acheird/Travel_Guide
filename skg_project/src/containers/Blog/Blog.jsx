@@ -6,9 +6,9 @@ const Blog = () => {
   return (
     <div className="app__blog section__padding" id="blog">
       <div className="app__blog-heading">
-        <h1 className="gradient__text">
+        <h2 className="gradient__text">
           A lot is happening, We are blogging about it.
-        </h1>
+        </h2>
       </div>
       <div className="app__blog-container">
         <div className="app__blog-container_groupA">

@@ -5,9 +5,9 @@ const NewsLetter = () => {
   return (
     <div className="app__header section__padding" id="home">
       <div className="app__header-content">
-        <h1 className="gradient__text">
+        <h2 className="gradient__text">
           Stay Informed: Subscribe to Our Newsletter!
-        </h1>
+        </h2>
         <p>
           As you explore the captivating streets of Thessaloniki, don’t miss out
           on the exciting events happening around the city! From cultural

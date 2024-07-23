@@ -13,10 +13,10 @@
   margin-right: 5rem;
 }
 
-.app__header-content h1 {
+.app__header-content h2 {
   font-family: var(--font-family);
   font-weight: 800;
-  font-size: 62px;
+  font-size: 58px;
   line-height: 75px;
   letter-spacing: -0.04em;
 }

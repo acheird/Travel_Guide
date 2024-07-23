@@ -23,7 +23,7 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <h1 className="headtext__cormorant">Explore SKG</h1>
+        <h2 className="headtext__cormorant">Explore SKG</h2>
         <p
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}

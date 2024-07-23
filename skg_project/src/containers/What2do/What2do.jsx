@@ -6,7 +6,7 @@ const What2do = () => {
     <div className="app__what2do section__margin" id="what2do">
       <div className="app__what2do-feature">
         <div>
-          <h1>Why Thessaloniki</h1>
+          <h2>Why Thessaloniki</h2>
         </div>
         <div className="app__what2do-feature-p">
           <p>

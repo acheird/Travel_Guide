@@ -1,6 +1,4 @@
 .app__feature-container__feature {
-    /* width: 100%; */
-    /* display: flex; */
     justify-content: space-between;
     align-items: flex-start;
     flex-direction: row;

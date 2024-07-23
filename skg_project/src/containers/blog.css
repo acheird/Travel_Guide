@@ -1,4 +1,4 @@
-app__blog {
+.app__blog {
     display:flex;
     flex-direction: column;
 }
@@ -38,7 +38,6 @@ app__blog {
     .app__blog-container {
         flex-direction: column-reverse;
     }
-
 
     .app__blog-container_groupA {
         margin: 2rem 0;

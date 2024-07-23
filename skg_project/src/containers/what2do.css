@@ -5,21 +5,17 @@
     padding: 50px;
 }
 
-.app__what2do-feature {
-    
+.app__what2do-feature { 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 
 }
 
-
-/* Customizing feature component as per needs */
 .app__what2do-feature .app__feature-container__feature {
     margin: 0;
 }
 
-/* Customizing feature component as per needs */
 .app__what2do-feature .app__feature-container__feature-text {
     max-width: 700px;
 }
@@ -53,8 +49,7 @@
 .app__what2do-container {
     display: flex;
     flex-wrap: wrap; 
-    flex-direction: row;
-    
+    flex-direction: row; 
     margin-top: 2rem;
 }
 
@@ -85,12 +80,10 @@
 }
 
 @media screen and (max-width: 650px) {
-    /* Customizing feature component as per needs */
     .app__what2do-feature .gpt3__features-container__feature {
         flex-direction: column;
     }
 
-    /* Customizing feature component as per needs */
     .gpt3__whatgpt3-feature .app__what2do-container_feature-text {
         margin-top: 0.5rem;
     }
@@ -103,13 +96,12 @@
 }
 
 @media screen and (max-width: 350px) {
-    /* Customizing feature component as per needs */
     .app__what2do-container .app__what2do-container__feature {
         margin: 1rem 0;
         min-width: 100%;
     }
 
-    app__what2do-feature p{
+    .app__what2do-feature p{
         padding-left: 10px;
     }
 }

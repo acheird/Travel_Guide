@@ -4,7 +4,6 @@
     justify-content: space-between;
     align-items: center;
     background: var(--color-black);
-
     padding: 1rem 2rem;
 }
 
@@ -23,7 +22,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
     list-style: none;
 }
 

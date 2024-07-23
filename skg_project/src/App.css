@@ -42,7 +42,7 @@
 
 .app__wrapper_img img {
   width: 80%;
-  mix-blend-mode: multiply; 
+  mix-blend-mode: multiply;
 }
 
 .p__cormorant {
@@ -51,7 +51,7 @@
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: capitalize;
-  font-feature-settings: 'tnum' on, 'lnum' on;
+  font-feature-settings: "tnum" on, "lnum" on;
   line-height: 29.9px;
   font-size: 23px;
 }
@@ -129,7 +129,7 @@
   .section__padding {
     padding: 4rem 2rem;
   }
-  
+
   .p__cormorant {
     font-size: 21px;
   }

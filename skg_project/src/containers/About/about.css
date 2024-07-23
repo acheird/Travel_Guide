@@ -1,28 +1,26 @@
 .app__about-content {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin-top: 3rem;
-
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 3rem;
 }
 
 .app__about-content h1 {
-    font-family: var(--font-family);
-    font-weight: 800;
-    font-size: 62px;
-    line-height: 75px;
-    letter-spacing: -0.04em;
-    color: var(--color-text);
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 62px;
+  line-height: 75px;
+  letter-spacing: -0.04em;
+  color: var(--color-text);
 }
 
 .app__about-content p {
-    font-family: var(--font-family);
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 28px;
-    color: var(--color-text);
-    text-align: justify;
-    text-justify: inter-word;
-    margin-top: 1.5rem;
-
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: var(--color-text);
+  text-align: justify;
+  text-justify: inter-word;
+  margin-top: 1.5rem;
 }

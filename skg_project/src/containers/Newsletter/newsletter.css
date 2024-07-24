@@ -10,7 +10,7 @@
   align-items: flex-start;
   flex-direction: column;
 
-  margin-right: 5rem;
+  margin: 5rem;
 }
 
 .app__header-content h2 {
@@ -63,7 +63,7 @@
   font-size: 20px;
   line-height: 28px;
   background: black;
-  border: 2px solid white;
+  /* border: 2px solid white; */
   padding: 0 1rem;
   color: #fff;
   cursor: pointer;

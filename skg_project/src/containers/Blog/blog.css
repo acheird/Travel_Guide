@@ -10,7 +10,7 @@
 }
 
 .app__blog-heading h2 {
-  font-size: 58px;
+  font-size: 54px;
   line-height: 75px;
   font-family: var(--font-family);
   font-weight: 800;
@@ -61,7 +61,7 @@
     width: 100%;
   }
 
-  .app__blog-heading h1 {
+  .app__blog-heading h2 {
     font-size: 46px;
     line-height: 52px;
   }

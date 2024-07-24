@@ -16,6 +16,10 @@
   padding-right: 2rem;
 }
 
+.app__gallery-content h2 {
+  font-size: 54px;
+}
+
 .app__gallery-content button {
   margin-top: 1rem;
   font-size: large;

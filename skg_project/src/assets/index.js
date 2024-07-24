@@ -3,6 +3,7 @@ import article2 from "./louloudadika.png";
 import article3 from "./olympus.jpg";
 import article4 from "./Best-Restaurants.jpg";
 import article5 from "./roman-agora.jpg";
+import article6 from "./tiff.jpg";
 import skg from "./skg.png";
 import thess1 from "./thess1.jpg";
 import thess2 from "./thess2.jpg";
@@ -17,6 +18,7 @@ export {
   article3,
   article4,
   article5,
+  article6,
   thess1,
   thess2,
   thess3,

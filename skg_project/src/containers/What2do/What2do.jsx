@@ -5,22 +5,18 @@ const What2do = () => {
   return (
     <div className="app__what2do section__margin" id="what2do">
       <div className="app__what2do-feature">
-        <div>
-          <h2>Why Thessaloniki</h2>
-        </div>
-        <div className="app__what2do-feature-p">
-          <p>
-            Whether you're a history enthusiast, a food lover, or seeking
-            vibrant experiences, Thessaloniki won't disappoint!
-          </p>
-        </div>
+        <h2>Why Thessaloniki</h2>
+        <p>
+          Whether you're a history enthusiast, a food lover, or seeking vibrant
+          experiences, Thessaloniki won't disappoint!
+        </p>
       </div>
       <div className="app__what2do-heading">
-        <h2 className="gradient__text">
+        <h3 className="gradient__text">
           The possibilities are beyond your imagination
-        </h2>
+        </h3>
 
-        <h2 className="gradient__text">Explore The City</h2>
+        <h3 className="gradient__text">Explore The City</h3>
       </div>
       <div className="app__what2do-container">
         <Feature

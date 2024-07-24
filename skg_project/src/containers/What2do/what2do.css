@@ -11,12 +11,8 @@
   justify-content: space-between;
 }
 
-.app__what2do-feature .app__feature-container__feature {
-  margin: 0;
-}
-
-.app__what2do-feature .app__feature-container__feature-text {
-  max-width: 700px;
+.app__what2do-feature h2 {
+  font-size: 54px;
 }
 
 .app__what2do-heading {
@@ -28,7 +24,7 @@
   margin: 4rem 0 2rem;
 }
 
-.app__what2do-heading h2 {
+.app__what2do-heading h3 {
   font-size: 34px;
   line-height: 45px;
   font-weight: 800;

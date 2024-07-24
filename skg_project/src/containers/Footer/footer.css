@@ -7,7 +7,7 @@
   align-items: center;
   flex-direction: column;
   background: var(--color-black);
-  padding-top: 15px;
+  padding: 60px;
 }
 
 .app__footer-links_icons {

@@ -1,16 +1,6 @@
 SKG Project: Thessaloniki City Website
 Welcome to the SKG Project, a website dedicated to the vibrant city of Thessaloniki! This project showcases the city’s rich history, culture, and attractions using React and Vite technology.
 
-Table of Contents
-
-About
-Why Thessaloniki
-Blog
-Explore SKG
-Newsletter
-Footer
-About
-
 The About section provides an overview of Thessaloniki, highlighting its significance, landmarks, and local flavor. Users can explore historical facts and learn about the city’s unique character.
 
 The Why Thessaloniki section acts as a guide for visitors. It lists must-visit places, recommended activities, and local favorites. Whether you’re a tourist or a resident, this section helps you make the most of your time in Thessaloniki.

@@ -24,6 +24,9 @@ const Navbar = () => {
           <a href="#blog">Explore</a>
         </li>
         <li className="p__opensans">
+          <a href="#book">Show me</a>
+        </li>
+        <li className="p__opensans">
           <a href="#newsletter">Keep in Touch</a>
         </li>
       </ul>
@@ -56,23 +59,28 @@ const Navbar = () => {
                 </a>
               </li>
               <li>
-                <a href="#home" onClick={() => setToggleMenu(false)}>
+                <a href="#intro" onClick={() => setToggleMenu(false)}>
                   Why Thessaloniki?
                 </a>
               </li>
               <li>
-                <a href="#where2go" onClick={() => setToggleMenu(false)}>
+                <a href="#what2do" onClick={() => setToggleMenu(false)}>
                   What to Do?
                 </a>
               </li>
               <li>
-                <a href="#what2do" onClick={() => setToggleMenu(false)}>
+                <a href="#blog" onClick={() => setToggleMenu(false)}>
                   Explore
                 </a>
               </li>
               <li>
-                <a href="#info" onClick={() => setToggleMenu(false)}>
-                  Information
+                <a href="#book" onClick={() => setToggleMenu(false)}>
+                  Show me
+                </a>
+              </li>
+              <li>
+                <a href="#newsletter" onClick={() => setToggleMenu(false)}>
+                  Keep in Touch
                 </a>
               </li>
             </ul>

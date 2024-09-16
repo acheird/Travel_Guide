@@ -15,16 +15,16 @@ const Navbar = () => {
           <a href="#about">About</a>
         </li>
         <li className="p__opensans">
-          <a href="#what2do">Why Thessaloniki?</a>
+          <a href="#intro">Why Thessaloniki?</a>
         </li>
         <li className="p__opensans">
           <a href="#what2do">What to Do?</a>
         </li>
         <li className="p__opensans">
-          <a href="#explore">Explore</a>
+          <a href="#blog">Explore</a>
         </li>
         <li className="p__opensans">
-          <a href="#info">Information</a>
+          <a href="#newsletter">Keep in Touch</a>
         </li>
       </ul>
       <div className="app__navbar-login">
@@ -32,7 +32,7 @@ const Navbar = () => {
           Login / Registration
         </a>
         <div />
-        <a href="/" className="p__opensans">
+        <a href="#book" className="p__opensans">
           Book A Ticket
         </a>
       </div>

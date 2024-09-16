@@ -21,14 +21,14 @@ const Gallery = () => {
   };
 
   return (
-    <div className="app__gallery flex__center">
+    <div className="app__gallery flex__center" id="book">
       <div className="app__gallery-content">
-        <h2 className="headtext__cormorant">Explore SKG</h2>
+        <h2 className="headtext__cormorant">Visit SKG</h2>
         <p
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          “Don’t waste any more time—explore the city of Thessaloníki today!”
+          “Don’t waste any more time—explore the city of Thessaloníki!”
         </p>
         <button type="button" className="custom__button">
           Book A Ticket

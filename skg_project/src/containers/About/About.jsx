@@ -2,7 +2,7 @@ import { skg } from "../../assets";
 import "./about.css";
 
 const About = () => (
-  <div className="app__bg app__wrapper section__padding">
+  <div className="app__bg app__wrapper section__padding" id="about">
     <div className="app__wrapper_img app__wrapper_img-reverse">
       <img src={skg} alt="skg" />
     </div>

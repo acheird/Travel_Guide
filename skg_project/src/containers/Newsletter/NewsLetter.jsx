@@ -3,7 +3,7 @@ import people from "../../assets/people.png";
 
 const NewsLetter = () => {
   return (
-    <div className="app__header section__padding" id="home">
+    <div className="app__header section__padding" id="newsletter">
       <div className="app__header-content">
         <h2 className="gradient__text">
           Stay Informed: Subscribe to Our Newsletter!

@@ -2,7 +2,7 @@ import "./intro.css";
 
 const Intro = () => {
   return (
-    <div className="app__video flex__center">
+    <div className="app__video flex__center" id="intro">
       <iframe
         src="https://www.youtube.com/embed/ZwfkUMF6n3c?si=72GJ1WByS959PiAt"
         title="YouTube video player"

@@ -5,7 +5,7 @@ const What2do = () => {
   return (
     <div className="app__what2do section__margin" id="what2do">
       <div className="app__what2do-feature">
-        <h2>Why Thessaloniki</h2>
+        <h2>What to Do?</h2>
         <p>
           Whether you're a history enthusiast, a food lover, or seeking vibrant
           experiences, Thessaloniki won't disappoint!

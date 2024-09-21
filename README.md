@@ -13,4 +13,4 @@ Gallery showcases stunning visuals of Thessaloniki. From picturesque sunsets to 
 Keep in touch - Stay up-to-date with the latest happenings in Thessaloniki by subscribing to our Newsletter. We’ll deliver exciting news, events, and exclusive content directly to your inbox.
 
 Footer
-The Footer contains our social media profiles and copyright information
+The Footer contains social media profiles and copyright information
